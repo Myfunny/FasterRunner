@@ -3,7 +3,7 @@
 # myconfig
 myconfig.conf
 logs/*.*
-.idea
+.idea/*
 apps/fastrunner/migrations/[0]*.py
 apps/users/migrations/[0]*.py
 media/*
